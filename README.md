@@ -37,11 +37,13 @@ Pada class `KartuParkir` terdapat 2 invariant, yaitu:
 ```bash
 javac KartuParkir.java Main.java
 java Main
+```
 
 ### PHP
 
 ```bash
 php index.php
+```
 
 ## Deklarasi Penggunaan Ai
 
