@@ -1,4 +1,5 @@
 <?php
+// Implementasi class KartuParkir menggunakan PHP
 class KartuParkir {
     private string $nomor;
     private string $jenis;
